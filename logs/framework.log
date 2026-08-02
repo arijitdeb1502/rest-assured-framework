@@ -1,0 +1,117 @@
+2026-08-01 05:08:12 INFO  FrameworkInitializer - ==============================
+2026-08-01 05:08:12 INFO  FrameworkInitializer - Framework Initialization
+2026-08-01 05:08:12 INFO  FrameworkInitializer - ==============================
+2026-08-01 05:08:12 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-01 05:08:12 INFO  FrameworkInitializer - Framework Ready
+2026-08-01 05:08:12 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-01 05:55:18 INFO  FrameworkInitializer - ==============================
+2026-08-01 05:55:18 INFO  FrameworkInitializer - Framework Initialization
+2026-08-01 05:55:18 INFO  FrameworkInitializer - ==============================
+2026-08-01 05:55:18 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-01 05:55:18 INFO  FrameworkInitializer - Framework Ready
+2026-08-01 05:55:18 INFO  APIClient - GET : /api/users/2
+2026-08-01 05:55:19 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-01 05:57:29 INFO  FrameworkInitializer - ==============================
+2026-08-01 05:57:29 INFO  FrameworkInitializer - Framework Initialization
+2026-08-01 05:57:29 INFO  FrameworkInitializer - ==============================
+2026-08-01 05:57:29 INFO  FrameworkInitializer - Base URL : https://jsonplaceholder.typicode.com
+2026-08-01 05:57:29 INFO  FrameworkInitializer - Framework Ready
+2026-08-01 05:57:29 INFO  APIClient - GET : /api/users/2
+2026-08-01 05:57:30 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-01 05:59:18 INFO  FrameworkInitializer - ==============================
+2026-08-01 05:59:18 INFO  FrameworkInitializer - Framework Initialization
+2026-08-01 05:59:18 INFO  FrameworkInitializer - ==============================
+2026-08-01 05:59:18 INFO  FrameworkInitializer - Base URL : https://jsonplaceholder.typicode.com
+2026-08-01 05:59:18 INFO  FrameworkInitializer - Framework Ready
+2026-08-01 05:59:18 INFO  APIClient - GET : /posts/1
+2026-08-01 05:59:19 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-01 06:08:51 INFO  FrameworkInitializer - ==============================
+2026-08-01 06:08:51 INFO  FrameworkInitializer - Framework Initialization
+2026-08-01 06:08:51 INFO  FrameworkInitializer - ==============================
+2026-08-01 06:08:51 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-01 06:08:51 INFO  FrameworkInitializer - Framework Ready
+2026-08-01 06:08:51 INFO  APIClient - GET : /api/users/2
+2026-08-01 06:08:53 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 14:23:39 INFO  FrameworkInitializer - ==============================
+2026-08-02 14:23:39 INFO  FrameworkInitializer - Framework Initialization
+2026-08-02 14:23:39 INFO  FrameworkInitializer - ==============================
+2026-08-02 14:23:39 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-02 14:23:39 INFO  FrameworkInitializer - Framework Ready
+2026-08-02 14:23:39 INFO  APIClient - GET : /api/users/2
+2026-08-02 14:23:41 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 15:41:40 INFO  FrameworkInitializer - ==============================
+2026-08-02 15:41:40 INFO  FrameworkInitializer - Framework Initialization
+2026-08-02 15:41:40 INFO  FrameworkInitializer - ==============================
+2026-08-02 15:41:40 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-02 15:41:40 INFO  FrameworkInitializer - Framework Ready
+2026-08-02 15:41:40 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 15:52:05 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:52:05 INFO  FrameworkInitializer - Framework Initialization Started
+2026-08-02 15:52:05 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:52:05 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-02 15:52:05 INFO  FrameworkInitializer - Request Specification Created
+2026-08-02 15:52:05 INFO  FrameworkInitializer - Framework Ready
+2026-08-02 15:52:05 INFO  APIClient - POST : /users
+2026-08-02 15:52:07 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:52:07 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 15:52:07 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:54:12 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:54:12 INFO  FrameworkInitializer - Framework Initialization Started
+2026-08-02 15:54:12 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:54:12 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-02 15:54:13 INFO  FrameworkInitializer - Request Specification Created
+2026-08-02 15:54:13 INFO  FrameworkInitializer - Framework Ready
+2026-08-02 15:54:13 INFO  APIClient - POST : /api/users
+2026-08-02 15:54:15 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:54:15 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 15:54:15 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:55:44 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:55:44 INFO  FrameworkInitializer - Framework Initialization Started
+2026-08-02 15:55:44 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:55:44 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-02 15:55:44 INFO  FrameworkInitializer - Request Specification Created
+2026-08-02 15:55:44 INFO  FrameworkInitializer - Framework Ready
+2026-08-02 15:55:44 INFO  APIClient - GET : /api/users/2
+2026-08-02 15:55:45 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:55:45 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 15:55:45 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:57:20 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:57:20 INFO  FrameworkInitializer - Framework Initialization Started
+2026-08-02 15:57:20 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:57:20 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-02 15:57:20 INFO  FrameworkInitializer - Request Specification Created
+2026-08-02 15:57:20 INFO  FrameworkInitializer - Framework Ready
+2026-08-02 15:57:20 INFO  APIClient - GET : /api/users/2
+2026-08-02 15:57:21 INFO  FrameworkInitializer - ========================================
+2026-08-02 15:57:21 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 15:57:21 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:03:06 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:03:06 INFO  FrameworkInitializer - Framework Initialization Started
+2026-08-02 16:03:06 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:03:06 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-02 16:03:06 INFO  FrameworkInitializer - Request Specification Created
+2026-08-02 16:03:06 INFO  FrameworkInitializer - Framework Ready
+2026-08-02 16:03:06 INFO  APIClient - GET : /api/users/2
+2026-08-02 16:03:08 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:03:08 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 16:03:08 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:03:31 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:03:31 INFO  FrameworkInitializer - Framework Initialization Started
+2026-08-02 16:03:31 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:03:31 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-02 16:03:31 INFO  FrameworkInitializer - Request Specification Created
+2026-08-02 16:03:31 INFO  FrameworkInitializer - Framework Ready
+2026-08-02 16:03:31 INFO  APIClient - POST : /api/users
+2026-08-02 16:03:33 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:03:33 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 16:03:33 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:39:14 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:39:14 INFO  FrameworkInitializer - Framework Initialization Started
+2026-08-02 16:39:14 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:39:14 INFO  FrameworkInitializer - Base URL : https://reqres.in
+2026-08-02 16:39:14 INFO  FrameworkInitializer - Request Specification Created
+2026-08-02 16:39:14 INFO  FrameworkInitializer - Framework Ready
+2026-08-02 16:39:14 INFO  APIClient - GET : /api/users/2
+2026-08-02 16:39:15 INFO  FrameworkInitializer - ========================================
+2026-08-02 16:39:15 INFO  FrameworkInitializer - Framework Shutdown
+2026-08-02 16:39:15 INFO  FrameworkInitializer - ========================================
