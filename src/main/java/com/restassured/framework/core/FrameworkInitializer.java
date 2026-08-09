@@ -19,6 +19,7 @@ public final class FrameworkInitializer {
             LogManager.getLogger(FrameworkInitializer.class);
     
     static String env = EnvironmentManager.getEnvironment();
+    
 
 
     private static RequestSpecification requestSpecification;
