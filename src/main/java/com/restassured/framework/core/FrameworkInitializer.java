@@ -6,6 +6,7 @@ import org.apache.logging.log4j.Logger;
 import com.restassured.framework.auth.TokenManager;
 import com.restassured.framework.config.ConfigReader;
 // import com.restassured.framework.reporting.ExtentManager;
+import com.restassured.framework.utils.EnvironmentManager;
 
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
@@ -16,6 +17,9 @@ public final class FrameworkInitializer {
 
     private static final Logger logger =
             LogManager.getLogger(FrameworkInitializer.class);
+    
+    static String env = EnvironmentManager.getEnvironment();
+
 
     private static RequestSpecification requestSpecification;
 
@@ -27,6 +31,10 @@ public final class FrameworkInitializer {
 
         logger.info("========================================");
         logger.info("Framework Initialization Started");
+        logger.info(
+                "Jenkins Environment = {}",
+                env
+        );
         logger.info("========================================");
 
         // Read Base URL
