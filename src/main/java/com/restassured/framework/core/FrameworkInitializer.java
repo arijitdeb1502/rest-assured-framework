@@ -32,10 +32,7 @@ public final class FrameworkInitializer {
 
         logger.info("========================================");
         logger.info("Framework Initialization Started");
-        logger.info(
-                "Jenkins Environment = {}",
-                env
-        );
+        logger.info("Jenkins Environment = {}",env);
         logger.info("========================================");
 
         // Read Base URL
