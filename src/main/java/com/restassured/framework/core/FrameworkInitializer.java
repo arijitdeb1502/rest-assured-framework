@@ -20,6 +20,8 @@ public final class FrameworkInitializer {
     
     static String env = EnvironmentManager.getEnvironment();
     
+    
+    
 
 
     private static RequestSpecification requestSpecification;
